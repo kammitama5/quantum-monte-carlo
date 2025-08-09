@@ -10,7 +10,7 @@ The group members for this project are:
 - Our Slide Presentation can be found here: [link](https://docs.google.com/presentation/d/1DxIuK-7DrV0EuL1DmSxSg53wzR8DL0loUcNiFFRHWao/edit?usp=sharing)
 
 ## Project Description
-- Our Project Writeup can be found here: [link](TBD)
+- Our Project Writeup can be found here: [link](https://github.com/kammitama5/quantum-monte-carlo/blob/main/WomaniumProject2025.pdf)
 
 ## Implementations
 - Our Classical Galton Board code can be found here: [link](https://github.com/stotene/Quantum-Walks-and-Monte-Carlo-Galton-Box-Simulation-/blob/main/Classical%20Simulation%20of%20Galton%20Box.ipynb)
