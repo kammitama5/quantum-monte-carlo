@@ -1,4 +1,4 @@
-# quantum-monte-carlo
+# The Entangled Trio WISER Group Project
 This is the codebase for team, "Entangled Trio", for the [WISER 2025 group project](https://www.thewiser.org/quantum-walks-monte-carlo) "Quantum Walks and Monte Carlo Methods for the Quantum Galton Board (QGB) Problem". This was a partial requirement for the "Quantum for PDEs" 2025 Quantum Programme.
 
 We are the "Entangled Trio"! The group members for this project are:
